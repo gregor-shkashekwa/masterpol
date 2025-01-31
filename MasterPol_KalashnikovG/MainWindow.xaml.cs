@@ -9,7 +9,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace MasterPol_Danilenko
+namespace MasterPol_KalashnikovG
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
