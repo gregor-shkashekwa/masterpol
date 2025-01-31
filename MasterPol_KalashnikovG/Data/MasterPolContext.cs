@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MasterPol_Danilenko.Data
+namespace MasterPol_KalashnikovG.Data
 {
     public class MasterPolContext: DbContext
     {
