@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows;
 
-namespace MasterPol_Danilenko
+namespace MasterPol_KalashnikovG
 {
     /// <summary>
     /// Interaction logic for App.xaml
