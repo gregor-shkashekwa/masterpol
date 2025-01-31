@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace MasterPol_Danilenko.Pages
+namespace MasterPol_KalashnikovG.Pages
 {
     /// <summary>
     /// Логика взаимодействия для PartnerAddPage.xaml
