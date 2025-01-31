@@ -1,4 +1,4 @@
-﻿using MasterPol_Danilenko.Models;
+﻿using MasterPol_KalashnikovG.Models;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
