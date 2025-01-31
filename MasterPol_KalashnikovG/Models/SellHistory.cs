@@ -5,7 +5,7 @@ using System.Security.RightsManagement;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MasterPol_Danilenko.Models
+namespace MasterPol_KalashnikovG.Models
 {
     public class SellHistory
     {
