@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MasterPol_Danilenko.Models
+namespace MasterPol_KalashnikovG.Models
 {
     public class PartnerType
     {
